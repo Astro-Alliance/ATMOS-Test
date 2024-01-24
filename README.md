@@ -1,4 +1,4 @@
--- Aggiungere il supporto High DPI (Dots per Inch) a programmi Windows Forms --
+## Aggiungere il supporto High DPI (Dots per Inch) a programmi Windows Forms
 
 
 1. Creare un file di manifest del programma
