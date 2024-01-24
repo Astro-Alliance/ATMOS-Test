@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ATMOS-Test", "ATMOS-Test.vbproj", "{8EA6A3D6-AB75-485B-9BF3-50EECD54718A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EA6A3D6-AB75-485B-9BF3-50EECD54718A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA6A3D6-AB75-485B-9BF3-50EECD54718A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA6A3D6-AB75-485B-9BF3-50EECD54718A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA6A3D6-AB75-485B-9BF3-50EECD54718A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B8EDFA8-0398-432D-BC3D-A71220A1A842}
+	EndGlobalSection
+EndGlobal
